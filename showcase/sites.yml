@@ -1224,4 +1224,14 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
-
+- title: Learn Sonos
+  url: https://learn.sonos.com/
+  description: We used Strapi to help Sonos implement its sales strategy and product marketing in new countries between Europe and Middle East.
+  categories: 
+    - Product Catalogue
+    - Go to Market Website
+  frontend: 
+    - Nuxt.js
+    - Tailwind
+  made_by: Pixel Alliance
+  made_by_url: https://www.pixelalliance.io/
